@@ -5,11 +5,12 @@
 |key|value|
 |---|-----|
 |Name|godan|
-|Blog|[まぁ、つまらないものですが](https://godan09.hatenablog.com/)|
-|Twitter|[@godan09](https://twitter.com/godan09)|
-|Qiita |[godan09 - Qiita](https://qiita.com/godan09)|
-| Speaker Deck | [godan (@godan) on Speaker Deck](https://speakerdeck.com/godan)|
-|GitHub| [Godan (godan)](https://github.com/Godan)|
+|Blog|https://godan09.hatenablog.com/|
+|Twitter|https://twitter.com/godan09|
+|Qiita |https://qiita.com/godan09|
+| Speaker Deck | https://speakerdeck.com/godan|
+|GitHub| https://github.com/Godan|
+|lapras| https://lapras.com/public/godan|
 
 
 ## スキル
