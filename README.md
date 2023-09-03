@@ -21,19 +21,19 @@
 ### 言語
 
 (使用頻度順)
+- Ruby
 - Python
 - PHP
 - JavaScript
 - C# 
 
 ### フレームワーク
-
+- Ruby on Rails
 - Django
 - FastAPI
 - flask
 - Codeigniter
 - Vue.js
-
 
 ### クラウド
 - GCP
@@ -41,10 +41,13 @@
   - AppEngin
   - CloudSQL
   - CloudFunction 
+  - CloudRun
 - AWS
   - EC2
   - ECS
+  - ALB
   - S3 
+  - Athene
 
 ### その他
 - Abobe AfterEffects
@@ -98,7 +101,8 @@
   * 地方ITコミュニティを始めとして、諸規模な団体を支援するために１週間1.5万で配信機材レンタルサービスを実施しています。
 * [mutable.stream](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80OGViZTYwOC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwiwhZK8646BAxUMgFYBHaccBM0Q9sEGegQIARAD&hl=ja)
   * ITイベントスタッフやイベンターの３人で最近の技術やテックイベントについて語るポッドキャスト。不定期更新。
-
+* [日替わりセールBOT (@DailyKindleSale) / X](https://twitter.com/DailyKindleSale)
+  * 毎日Kindleの日替わりセール”だけ”をお知らせするBot。GCP上に構築。
 
 ### 過去の登壇資料
 * [日曜大工で配信を豪華にする - Speaker Deck](https://speakerdeck.com/godan/ri-yao-da-gong-depei-xin-wohao-hua-nisuru)
